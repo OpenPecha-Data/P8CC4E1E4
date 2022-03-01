@@ -1,0 +1,21 @@
+id: P8CC4E1E4
+initial_creation_type: input
+source_metadata:
+  title: Gaṅgottaraparipṛcchā
+  language: bo
+  volumes:
+    b6f05409db9d4a1181087f44d764d9a5:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W3C6ED2B0
+    e7e3af67f0494491b282b7c301fb2dc9:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W68FD7A58
+    e6afe15e16a1492f917df22aefb8a620:
+      title: Title
+      base_file: Title.txt
+      work_id: WBF6F3E30
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:28:34.360143'
+last_modified_at: '2022-03-01T21:28:34.360149'
